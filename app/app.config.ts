@@ -8,11 +8,9 @@ export default defineAppConfig({
   phone: '(+977) 9818792669',
   openGraphImage: 'https://canvas.hrcd.fr/social-preview.jpg',
   socials: {
-    github: 'https://github.com/HugoRCD',
-    twitter: 'https://twitter.com/HugoRCD__',
+    github: 'https://github.com/prabeshmrz',
     linkedin: 'https://www.linkedin.com/in/prabesh-maharjan-04294a16b',
-    instagram: 'https://www.instagram.com/hugo.rcd_',
-    spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
+    instagram: 'https://www.instagram.com/prabesh_mrzn',
   },
   ui: {
     primary: 'emerald',
